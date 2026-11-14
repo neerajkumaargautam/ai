@@ -1,4 +1,4 @@
-# AI: Zero to Expert
+# AI: Zero to Expert ( Yet to start)
 
 A structured, hands-on repository covering Artificial Intelligence engineering from classical machine learning and deep learning to Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, and enterprise `.NET` AI integration.
 
