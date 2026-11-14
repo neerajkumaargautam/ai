@@ -1,4 +1,4 @@
-# AI: Zero to Expert (⏳ Yet to start)
+# AI: Zero to Expert (🚧 In Progress)
 
 A structured, hands-on repository covering Artificial Intelligence engineering from classical machine learning and deep learning to Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, and enterprise `.NET` AI integration.
 
@@ -52,3 +52,5 @@ A structured, hands-on repository covering Artificial Intelligence engineering f
 - **AI & LLM Ecosystem:** Azure OpenAI, OpenAI API, Anthropic Claude, Ollama, vLLM, LangChain/LlamaIndex concepts
 - **Vector & Data Stores:** Qdrant, Chroma, Azure AI Search, Azure SQL
 - **Protocols & Architecture:** Model Context Protocol (MCP), Retrieval-Augmented Generation (RAG), Agentic Workflows, OpenTelemetry
+
+Status labels: ⏳ Yet to start, 🚧 In Progress, or ✅ Completed
