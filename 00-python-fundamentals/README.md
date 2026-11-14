@@ -139,3 +139,7 @@ print(parsed_data["status"])
 ## 🚀 Hands-On Exercises
 1. **Model Selector Script:** Create a list of 4 AI models. Write a `for` loop that checks if a specific model name (e.g., `"gpt-4o"`) is in the list and prints a confirmation message.
 2. **Configuration Parser:** Build a dictionary containing prompt metadata. Write a function that takes this dictionary as input and prints out a formatted summary of the configuration.
+
+
+---
+*Next module [Python for AI & Data Science](../01-python-and-data-science.md)*
