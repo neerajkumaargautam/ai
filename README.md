@@ -7,6 +7,7 @@ A structured, hands-on repository covering Artificial Intelligence engineering f
 ### Phase 1: Foundations & Machine Learning Core (`01` – `05`)
 | # | Module | Key Topics (AI & Enterprise .NET Focus) |
 | :--- | :--- | :--- |
+| [00](./00-python-fundamentals/README.md) | Python Programming Fundamentals  |
 | [01](./01-python-and-data-science/README.md) | Python for AI & Data Science | Python asynchronous programming, NumPy, Pandas, data wrangling, and data pipeline preparation |
 | [02](./02-classical-machine-learning/README.md) | Classical Machine Learning | Scikit-learn, regression, classification, clustering algorithms, model evaluation metrics, and pipeline serialization |
 | [03](./03-deep-learning-fundamentals/README.md) | Deep Learning Fundamentals | Neural network architecture, PyTorch tensors, backpropagation, activation functions, and gradient descent optimizers |
