@@ -142,4 +142,4 @@ print(parsed_data["status"])
 
 
 ---
-*Next module [Python for AI & Data Science](../01-python-and-data-science.md)*
+*Next module [Python for AI & Data Science](../01-python-and-data-science/README.md)*
